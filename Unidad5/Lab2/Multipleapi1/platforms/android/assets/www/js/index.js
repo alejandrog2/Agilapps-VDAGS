@@ -34,6 +34,7 @@ var app = {
     // function, we must explicity call 'app.receivedEvent(...);'
     onDeviceReady: function() {
         app.receivedEvent('deviceready');
+        document.addEventListener("backbutton", backButtonPress, false);
     },
     // Update DOM on a Received Event
     receivedEvent: function(id) {
@@ -47,12 +48,12 @@ var app = {
         console.log('Received Event: ' + id);
     }
     //backbutton
-    backButtonPress: function(){
+function backButtonPress(){
         myDevice = document.getElementById('info');
 
         myDevice.innerHTML = 'Cargando información del Dispositivo:' + '<br />' +
-        'Nombre del Dispositivo: ' + window.device.name + '<br />' +
-        'Dispositivo PhoneGap: ' + device.PhoneGap + '<br />' +
+        'Nombre del Dispositivo: ' + device.name + '<br />' +
+        'Dispositivo PhoneGap: ' + device.cordova + '<br />' +
         'Plataforma: ' + device.uuid + '<br />' +
         'Versión:' device.version;
     }
