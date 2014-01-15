@@ -19,7 +19,11 @@ c:\wamp\www\GitHub\Unidad5\Lab2\Multipleapi1\platforms\android\assets\www\css \
 c:\wamp\www\GitHub\Unidad5\Lab2\Multipleapi1\platforms\android\assets\www\img \
 c:\wamp\www\GitHub\Unidad5\Lab2\Multipleapi1\platforms\android\assets\www\index.html \
 c:\wamp\www\GitHub\Unidad5\Lab2\Multipleapi1\platforms\android\assets\www\js \
+c:\wamp\www\GitHub\Unidad5\Lab2\Multipleapi1\platforms\android\assets\www\plugins \
 c:\wamp\www\GitHub\Unidad5\Lab2\Multipleapi1\platforms\android\assets\www\css\index.css \
 c:\wamp\www\GitHub\Unidad5\Lab2\Multipleapi1\platforms\android\assets\www\img\logo.png \
 c:\wamp\www\GitHub\Unidad5\Lab2\Multipleapi1\platforms\android\assets\www\js\index.js \
+c:\wamp\www\GitHub\Unidad5\Lab2\Multipleapi1\platforms\android\assets\www\plugins\org.apache.cordova.device \
+c:\wamp\www\GitHub\Unidad5\Lab2\Multipleapi1\platforms\android\assets\www\plugins\org.apache.cordova.device\www \
+c:\wamp\www\GitHub\Unidad5\Lab2\Multipleapi1\platforms\android\assets\www\plugins\org.apache.cordova.device\www\device.js \
 c:\wamp\www\GitHub\Unidad5\Lab2\Multipleapi1\platforms\android\bin\AndroidManifest.xml \
